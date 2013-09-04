@@ -37,20 +37,20 @@ def addThree(y):
     print 'x inside', x
     return y + 5
 
-#print 'x before', x
-#y = addOne(1)
-#print 'y', y
-#print 'x after', x
+print 'x before', x
+y = addOne(1)
+print 'y', y
+print 'x after', x
 
-#print 'x before', x
-#y = addTwo(1)
-#print 'y', y
-#print 'x after', x
+print 'x before', x
+y = addTwo(1)
+print 'y', y
+print 'x after', x
 
-#print 'x before', x
-#y = addThree(1)
-#print 'y', y
-#print 'x after', x
+print 'x before', x
+y = addThree(1)
+print 'y', y
+print 'x after', x
 
 """ 
 Be careful with lists and other objects, here are
