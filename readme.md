@@ -1,4 +1,4 @@
-# i206 Fall 2013 Class Example Repository!
+# i206 Fall 2013 Class Repository
 
 This repository is maintained by the i206 Tutors for i206 Fall 2013. It will include feedback on assignments and other code examples.
 
