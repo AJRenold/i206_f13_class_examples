@@ -20,7 +20,7 @@ x = 1
 
 def addOne(y):
     """A basic function"""
-    return y + 2
+    return y + 1
 
 def addTwo(y):
     """A basic function with a global/local naming conflict
@@ -28,14 +28,14 @@ def addTwo(y):
     x = 1233
     x += 1
     print 'x inside', x
-    return y + 4
+    return y + 2
 
 def addThree(y):
     """A basic function which modifies global x"""
     global x
     x += 1
     print 'x inside', x
-    return y + 5
+    return y + 3
 
 print 'x before', x
 y = addOne(1)
